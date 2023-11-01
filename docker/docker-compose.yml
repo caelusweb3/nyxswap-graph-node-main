@@ -19,7 +19,7 @@ services:
       postgres_pass: let-me-in
       postgres_db: graph-node
       ipfs: "ipfs:5001"
-      ethereum: "mainnet:https://seed2.omchain.io"
+      ethereum: "mainnet:https://rpc.test.janusnetwork.io"
       GRAPH_LOG: info
       EXPERIMENTAL_SUBGRAPH_VERSION_SWITCHING_MODE: synced
   ipfs:
