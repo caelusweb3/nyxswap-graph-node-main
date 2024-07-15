@@ -15,6 +15,6 @@ graph-chain-near = { path = "../../chain/near" }
 graph-chain-cosmos = { path = "../../chain/cosmos" }
 graphql-parser = "0.4.0"
 http = "0.2"
-hyper = "0.14"
+hyper = "1.4"
 lazy_static = "1.2.0"
 serde = "1.0"
